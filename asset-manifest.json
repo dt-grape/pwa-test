@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ad42e0e.css",
-    "main.js": "/static/js/main.63c207fb.js",
-    "static/media/logo-wallace.png": "/static/media/logo-wallace.687186393bb6ef26cf3c.png",
-    "service-worker.js": "/service-worker.js",
-    "static/media/ryan.jpg": "/static/media/ryan.ce76778f2e95eea04a2e.jpg",
-    "static/media/eagle.png": "/static/media/eagle.d7c468626aa1757cdc65.png",
-    "static/media/Micro5-Regular.woff2": "/static/media/Micro5-Regular.12f8280a083fd51c0caa.woff2",
-    "static/media/Pixel.woff2": "/static/media/Pixel.49135075b35037570fd3.woff2",
-    "index.html": "/index.html",
-    "main.9ad42e0e.css.map": "/static/css/main.9ad42e0e.css.map",
-    "main.63c207fb.js.map": "/static/js/main.63c207fb.js.map"
+    "main.css": "https://dt-grape.github.io/pwa-test/static/css/main.ca8edab0.css",
+    "main.js": "https://dt-grape.github.io/pwa-test/static/js/main.0eac6ccd.js",
+    "static/media/logo-wallace.png": "https://dt-grape.github.io/pwa-test/static/media/logo-wallace.687186393bb6ef26cf3c.png",
+    "service-worker.js": "https://dt-grape.github.io/pwa-test/service-worker.js",
+    "static/media/ryan.jpg": "https://dt-grape.github.io/pwa-test/static/media/ryan.ce76778f2e95eea04a2e.jpg",
+    "static/media/eagle.png": "https://dt-grape.github.io/pwa-test/static/media/eagle.d7c468626aa1757cdc65.png",
+    "static/media/Micro5-Regular.woff2": "https://dt-grape.github.io/pwa-test/static/media/Micro5-Regular.12f8280a083fd51c0caa.woff2",
+    "static/media/Pixel.woff2": "https://dt-grape.github.io/pwa-test/static/media/Pixel.49135075b35037570fd3.woff2",
+    "index.html": "https://dt-grape.github.io/pwa-test/index.html",
+    "main.ca8edab0.css.map": "https://dt-grape.github.io/pwa-test/static/css/main.ca8edab0.css.map",
+    "main.0eac6ccd.js.map": "https://dt-grape.github.io/pwa-test/static/js/main.0eac6ccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ad42e0e.css",
-    "static/js/main.63c207fb.js"
+    "static/css/main.ca8edab0.css",
+    "static/js/main.0eac6ccd.js"
   ]
 }
