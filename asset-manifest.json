@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "https://dt-grape.github.io/pwa-test/static/css/main.ca8edab0.css",
-    "main.js": "https://dt-grape.github.io/pwa-test/static/js/main.0eac6ccd.js",
-    "static/media/logo-wallace.png": "https://dt-grape.github.io/pwa-test/static/media/logo-wallace.687186393bb6ef26cf3c.png",
+    "main.css": "https://dt-grape.github.io/pwa-test/static/css/main.72c08295.css",
+    "main.js": "https://dt-grape.github.io/pwa-test/static/js/main.0bf0e944.js",
     "service-worker.js": "https://dt-grape.github.io/pwa-test/service-worker.js",
     "static/media/ryan.jpg": "https://dt-grape.github.io/pwa-test/static/media/ryan.ce76778f2e95eea04a2e.jpg",
     "static/media/eagle.png": "https://dt-grape.github.io/pwa-test/static/media/eagle.d7c468626aa1757cdc65.png",
-    "static/media/Micro5-Regular.woff2": "https://dt-grape.github.io/pwa-test/static/media/Micro5-Regular.12f8280a083fd51c0caa.woff2",
+    "static/media/W95FARegular.woff2": "https://dt-grape.github.io/pwa-test/static/media/W95FARegular.180ddec552e47d61a363.woff2",
     "static/media/Pixel.woff2": "https://dt-grape.github.io/pwa-test/static/media/Pixel.49135075b35037570fd3.woff2",
     "index.html": "https://dt-grape.github.io/pwa-test/index.html",
-    "main.ca8edab0.css.map": "https://dt-grape.github.io/pwa-test/static/css/main.ca8edab0.css.map",
-    "main.0eac6ccd.js.map": "https://dt-grape.github.io/pwa-test/static/js/main.0eac6ccd.js.map"
+    "main.72c08295.css.map": "https://dt-grape.github.io/pwa-test/static/css/main.72c08295.css.map",
+    "main.0bf0e944.js.map": "https://dt-grape.github.io/pwa-test/static/js/main.0bf0e944.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca8edab0.css",
-    "static/js/main.0eac6ccd.js"
+    "static/css/main.72c08295.css",
+    "static/js/main.0bf0e944.js"
   ]
 }
