@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://dt-grape.github.io/pwa-test/static/css/main.18271733.css",
-    "main.js": "https://dt-grape.github.io/pwa-test/static/js/main.8740e95c.js",
-    "service-worker.js": "https://dt-grape.github.io/pwa-test/service-worker.js",
-    "static/media/ryan.jpg": "https://dt-grape.github.io/pwa-test/static/media/ryan.ce76778f2e95eea04a2e.jpg",
-    "static/media/eagle.png": "https://dt-grape.github.io/pwa-test/static/media/eagle.d7c468626aa1757cdc65.png",
-    "static/media/W95FARegular.woff2": "https://dt-grape.github.io/pwa-test/static/media/W95FARegular.180ddec552e47d61a363.woff2",
-    "static/media/Pixel.woff2": "https://dt-grape.github.io/pwa-test/static/media/Pixel.49135075b35037570fd3.woff2",
-    "index.html": "https://dt-grape.github.io/pwa-test/index.html",
-    "main.18271733.css.map": "https://dt-grape.github.io/pwa-test/static/css/main.18271733.css.map",
-    "main.8740e95c.js.map": "https://dt-grape.github.io/pwa-test/static/js/main.8740e95c.js.map"
+    "main.css": "https://dt-grape.github.io/static/css/main.5297c7c9.css",
+    "main.js": "https://dt-grape.github.io/static/js/main.5bc50e79.js",
+    "service-worker.js": "https://dt-grape.github.io/service-worker.js",
+    "static/media/ryan.jpg": "https://dt-grape.github.io/static/media/ryan.ce76778f2e95eea04a2e.jpg",
+    "static/media/eagle.png": "https://dt-grape.github.io/static/media/eagle.d7c468626aa1757cdc65.png",
+    "static/media/W95FARegular.woff2": "https://dt-grape.github.io/static/media/W95FARegular.180ddec552e47d61a363.woff2",
+    "static/media/Pixel.woff2": "https://dt-grape.github.io/static/media/Pixel.49135075b35037570fd3.woff2",
+    "index.html": "https://dt-grape.github.io/index.html",
+    "main.5297c7c9.css.map": "https://dt-grape.github.io/static/css/main.5297c7c9.css.map",
+    "main.5bc50e79.js.map": "https://dt-grape.github.io/static/js/main.5bc50e79.js.map"
   },
   "entrypoints": [
-    "static/css/main.18271733.css",
-    "static/js/main.8740e95c.js"
+    "static/css/main.5297c7c9.css",
+    "static/js/main.5bc50e79.js"
   ]
 }
