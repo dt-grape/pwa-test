@@ -1,0 +1,52 @@
+@import "styles/reset.css";
+@import "styles/fonts.css";
+@import "styles/header.css";
+@import "styles/user.css";
+@import "styles/description.css";
+@import "styles/footer.css";
+@import "styles/logo.css";
+@import "styles/lang.css";
+
+:root {
+  --main-bg-color: #000a0c;
+  --secondary-bg-color: #121d1f;
+  --main-text-color: #97aaaf;
+  --secondary-text-color: #3d484d;
+}
+
+body {
+  font-family: 'Pixel', sans-serif;
+  background: var(--main-bg-color);
+  color: var(--main-text-color);
+}
+
+.container {
+  padding: 10px;
+}
+
+.corner {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background-color: white;
+}
+
+.corner.top-left {
+  top: -2px;
+  left: -2px;
+}
+
+.corner.top-right {
+  top: -2px;
+  right: -2px;
+}
+
+.corner.bottom-left {
+  bottom: -2px;
+  left: -2px;
+}
+
+.corner.bottom-right {
+  bottom: -2px;
+  right: -2px;
+}

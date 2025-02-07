@@ -1,0 +1,23 @@
+.gtranslate_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.gtranslate_wrapper a {
+    color: #99acb3;
+    text-decoration: none;
+    font-family: sans-serif;
+    display: flex;
+    gap: 5px;
+}
+
+.gt_container--rvaygv a.glink span {
+    font-size: 32px !important;
+}
+
+.translate-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

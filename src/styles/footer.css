@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #3d484b;
+    position: relative;
+}
+
+.eagle-image {
+    width: 70px;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-info span {
+    color: var(--secondary-text-color);
+    text-align: center;
+    font-size: 12px;
+}

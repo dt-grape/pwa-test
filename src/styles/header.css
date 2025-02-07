@@ -1,0 +1,72 @@
+
+.header-top-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #3d484b;
+    padding: 10px;
+    position: relative;
+}
+
+.header-info {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header-battery {
+    --n: 4;
+    --g: 2px;
+
+    width: 40px;
+    color: #99acb3;
+    aspect-ratio: 2;
+    border: var(--g) solid;
+    padding: var(--g);
+    background: repeating-linear-gradient(90deg, currentColor 0 calc(100% / var(--n) - var(--g)), #0000 0 calc(100% / var(--n))) 0 0 / calc(100% + var(--g)) content-box;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.header-battery::before {
+    content: "";
+    position: absolute;
+    inset: 30% -5px 30% 100%;
+    background: currentColor;
+}
+
+.header-bottom-wrapper {
+    display: flex;
+    justify-content: space-between;
+    background: var(--secondary-bg-color);
+    border: 1px solid #3d484b;
+    padding: 10px;
+    position: relative;
+}
+
+.user-info, .access {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-role {
+    font-size: 16px;
+}
+
+.user-id {
+    font-size: 32px;
+}
+
+.access-status, .access-password {
+    color: var(--secondary-text-color);
+    text-align: end;
+}
+
+.access-password {
+    font-size: 24px;
+}
+
+.link {
+    text-decoration: none;
+    color: currentColor;
+}
